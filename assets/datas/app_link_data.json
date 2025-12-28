@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Rrr - 강아지 번역기",
+    "subtitle": "세상에서 가장 귀여운 번역기",
+    "logo": "rrr_logo",
+    "links": {
+      "play": "com.rrrtr.android&hl=ko",
+      "appstore": "id6749158088"
+    }
+  },
+  {
+    "name": "밤티 - 특수문자 이모티콘 모음",
+    "subtitle": "(≧ω≦) 밤티나고 귀여운 이모티콘들",
+    "logo": "bamti_logo",
+    "links": {
+      "play": "com.bamti.android",
+      "appstore": "id6755720447",
+      "instagram": "bamtiapp"
+    }
+  },
+  {
+    "name": "Azas - 시계 & 타이머",
+    "subtitle": "일과 공부에 집중하세요!",
+    "logo": "azas_logo",
+    "links": {
+      "play": "com.azas.android",
+      "appstore": "id6755321443",
+      "youtube": "azasapp"
+    }
+  },
+  {
+    "name": "미야옹 - 고양이 번역기",
+    "subtitle": "냥이와 대화해보세요!",
+    "logo": "miyaong_logo",
+    "links": {
+      "play": "com.miyaong.android",
+      "appstore": "id6755878598"
+    }
+  },
+  {
+    "name": "EoDi - 쉽고 빠른 주차 위치 기록",
+    "subtitle": "빠르고 편하게 주차 위치 찾기!",
+    "logo": "eodi_logo",
+    "links": {
+      "appstore": "id6749798141"
+    }
+  },
+  {
+    "name": "남자 화장실",
+    "subtitle": "남자들의 은밀한 거리두기",
+    "logo": "gents_logo",
+    "links": {
+      "appstore": "id6744559695"
+    }
+  },
+  {
+    "name": "NoE - 명언 모음",
+    "subtitle": "뇌에 영감을 주는 말들.",
+    "logo": "noe_logo",
+    "links": {
+      "appstore": "id6739860227"
+    }
+  },
+  {
+    "name": "끽끽 - 원숭이 번역기",
+    "subtitle": "사람 & 원숭이 양방향 번역",
+    "logo": "kkigkkig_logo",
+    "links": {
+      "appstore": "id6756462558"
+    }
+  },
+  {
+    "name": "대만 환율 계산기",
+    "subtitle": "오프라인 환율 계산기",
+    "logo": "taiwancc_logo",
+    "links": {
+      "appstore": "id6756492721"
+    }
+  },
+  {
+    "name": "미국 환율 계산기",
+    "subtitle": "오프라인 환율 계산기",
+    "logo": "usarokcc_logo",
+    "links": {
+      "appstore": "id6756805361"
+    }
+  },
+  {
+    "name": "싱가포르 환율 계산기",
+    "subtitle": "오프라인 환율 계산기",
+    "logo": "singaporerokcc_logo",
+    "links": {
+      "appstore": "id6756836846"
+    }
+  },
+  {
+    "name": "태국 환율 계산기",
+    "subtitle": "오프라인 환율 계산기",
+    "logo": "thailandrokcc_logo",
+    "links": {
+      "appstore": "id6756836573"
+    }
+  },
+  {
+    "name": "홍콩 환율 계산기",
+    "subtitle": "오프라인 환율 계산기",
+    "logo": "hongkongrokcc_logo",
+    "links": {
+      "appstore": "id6756833022"
+    }
+  },
+  {
+    "name": "베트남 환율 계산기",
+    "subtitle": "오프라인 환율 계산기",
+    "logo": "vietnamrokcc_logo",
+    "links": {
+      "appstore": "id6756804400"
+    }
+  },
+  {
+    "name": "중국 환율 계산기",
+    "subtitle": "오프라인 환율 계산기",
+    "logo": "chinarokcc_logo",
+    "links": {
+      "appstore": "id6756832854"
+    }
+  },
+  {
+    "name": "필리핀 환율 계산기",
+    "subtitle": "오프라인 환율 계산기",
+    "logo": "philippinesrokcc_logo",
+    "links": {
+      "appstore": "id6756834493"
+    }
+  },
+  {
+    "name": "일본 환율 계산기",
+    "subtitle": "오프라인 환율 계산기",
+    "logo": "japanrokcc_logo",
+    "links": {
+      "appstore": "id6756516470"
+    }
+  },
+  {
+    "name": "호주 환율 계산기",
+    "subtitle": "오프라인 환율 계산기",
+    "logo": "australiarokcc_logo",
+    "links": {
+      "appstore": "id6756516260"
+    }
+  }
+]
