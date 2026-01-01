@@ -70,6 +70,14 @@
     }
   },
   {
+    "name": "柴犬犬の翻訳",
+    "subtitle": "ワンちゃんの心の声、きいてみませんか？",
+    "logo": "koinutr_logo",
+    "links": {
+      "appstore": "id6757080522"
+    }
+  },
+  {
     "name": "대만 환율 계산기",
     "subtitle": "오프라인 환율 계산기",
     "logo": "taiwancc_logo",
@@ -147,6 +155,24 @@
     "logo": "australiarokcc_logo",
     "links": {
       "appstore": "id6756516260"
+    }
+  }
+  ,
+  {
+    "name": "韓国為替レート計算機",
+    "subtitle": "オフライン為替レート計算機",
+    "logo": "rokjapancc_logo",
+    "links": {
+      "appstore": "id6756966699"
+    }
+  }
+  ,
+  {
+    "name": "韩元转换器",
+    "subtitle": "离线货币转换器",
+    "logo": "rokchinacc_logo",
+    "links": {
+      "appstore": "id6756967622"
     }
   }
 ]
