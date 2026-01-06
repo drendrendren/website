@@ -1,0 +1,200 @@
+:root {
+  --app-info-block-padding: 13px;
+}
+
+@media (max-width: 639px) {
+  .content-wrapper {
+    width: 80%;
+  }
+
+  .app-info-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .app-info-img {
+    width: 70px;
+    height: 70px;
+  }
+
+  h3 {
+    font-size: 14px;
+  }
+
+  h4 {
+    font-size: 10px;
+  }
+
+  .app-info-link-img {
+    height: 20px;
+  }
+}
+
+@media (min-width: 640px) and (max-width: 1023px) {
+  .content-wrapper {
+    width: 80%;
+  }
+
+  .app-info-wrapper {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+  }
+
+  .app-info-img {
+    width: 80px;
+    height: 80px;
+  }
+
+  h3 {
+    font-size: 14px;
+  }
+
+  h4 {
+    font-size: 10px;
+  }
+
+  .app-info-link-img {
+    height: 20px;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1279px) {
+  .content-wrapper {
+    width: 70%;
+  }
+
+  .app-info-wrapper {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 25px;
+  }
+
+  .app-info-img {
+    width: 80px;
+    height: 80px;
+  }
+
+  h3 {
+    font-size: 15px;
+  }
+
+  h4 {
+    font-size: 11px;
+  }
+
+  .app-info-link-img {
+    height: 23px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .content-wrapper {
+    width: 80%;
+  }
+
+  .app-info-wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25px;
+  }
+
+  .app-info-img {
+    width: 100px;
+    height: 100px;
+  }
+
+  h3 {
+    font-size: 17px;
+  }
+
+  h4 {
+    font-size: 13px;
+  }
+
+  .app-info-link-img {
+    height: 25px;
+  }
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+  color: var(--text-secondary);
+  font-weight: bold;
+  font-size: 35px;
+}
+
+h2 {
+  margin: 0;
+  padding: 0;
+  color: var(--text-secondary);
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.content-wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.app-info-wrapper {
+  width: 100%;
+  margin: 10px auto 0;
+}
+
+.app-info-block {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 25px;
+  background-color: var(--card-primary);
+  width: calc(100% - calc(--app-info-block-padding * 2));
+  padding: 20px var(--app-info-block-padding);
+  border-radius: 20px;
+  box-shadow: 0 4px 8px var(--shadow-primary);
+  transition: all ease 0.2s;
+}
+
+.app-info-block:hover {
+  transform: scale(1.03);
+}
+
+.app-detail-info-link {
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.app-info-detail-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 15px;
+  height: 100%;
+}
+
+h3 {
+  margin: 0;
+  padding: 0;
+  color: var(--text-primary);
+  font-weight: 700;
+}
+
+h4 {
+  margin: 0;
+  padding: 0;
+  color: var(--text-secondary);
+  font-weight: 500;
+  font-size: 13px;
+}
+
+.app-info-link {
+  background-color: transparent;
+  text-decoration: none;
+  color: #e3e3e3;
+  font-weight: 600;
+  font-size: 14px;
+  cursor: pointer;
+}
