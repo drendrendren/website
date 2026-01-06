@@ -47,14 +47,14 @@ fetch("./assets/datas/app_link_data.json")
       const html = `
         <div class="app-info-block">
             <div>
-              <a href="./app.php?name=${appLinkUrl}" target="_blank" rel="follow noopener noreferrer" class="app-detail-info-link">
+              <a href="./app?name=${appLinkUrl}" target="_blank" rel="follow noopener noreferrer" class="app-detail-info-link">
                   <img src="./assets/images/logo/app/${app.logo}.png" alt="${app.name}" class="app-info-img">
               </a>
             </div>
 
             <div class="app-info-detail-wrapper">
               <div>
-                <a href="./app.php?name=${appLinkUrl}" target="_blank" rel="follow noopener noreferrer" class="app-detail-info-link">
+                <a href="./app?name=${appLinkUrl}" target="_blank" rel="follow noopener noreferrer" class="app-detail-info-link">
                   <h3>${app.name}</h3>
                   <h4>${app.subtitle}</h4>
                 </a>

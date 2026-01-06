@@ -17,10 +17,6 @@
         if ($app['name'] === $get_app_name) {
             $selected_app = $app;
             break;
-        }else{
-            // app_link_data.json에 존재하지 않는 app_name
-            // index로 redirect
-            echo '<script>window.location.href="./index";</script>';
         }
     }
 
